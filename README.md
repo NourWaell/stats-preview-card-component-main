@@ -14,8 +14,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/statspreviewcardcomponentmain-using-html-and-css-ZGpjESqxv7]
+- Live Site URL: [https://stats-preview-card-component-main-inky.vercel.app/]
 
 ## My process
 
